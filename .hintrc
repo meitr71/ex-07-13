@@ -7,7 +7,9 @@
       "default",
       {
         "aria-required-parent": "off",
-        "aria-roles": "off"
+        "aria-roles": "off",
+        "aria-input-field-name": "off",
+        "aria-required-children": "off"
       }
     ]
   }
